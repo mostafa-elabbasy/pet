@@ -54,4 +54,4 @@ mvn clean package spring-boot:repackage
 ```
 
 the report will create in target/site/jacoco
-you can open it from target/site/jacoco/index.html
+and you can open it from target/site/jacoco/index.html
